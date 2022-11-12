@@ -11,6 +11,8 @@ Everything you/I need to know about my Arch + Hyprland setup.
 
 > https://wiki.hyprland.org/Useful-Utilities/
 
+> https://github.com/hyprwm/Hyprland/wiki/FAQ
+
 - *wofi*:
 > https://hg.sr.ht/~scoopta/wofi
 
