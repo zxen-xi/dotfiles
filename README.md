@@ -1,11 +1,9 @@
 # dotfiles-hyprland
-Everything you/I need to know about my Arch + Hyprland setup.
+Everything you/I need to know about my EndeavourOS + Hyprland setup.
 
 # Useful stuff
 
-- Arch is hard
-> https://www.youtube.com/watch?v=3zqITuprlL8&t=30s (how to connect to WiFi while installing Arch)
-> https://github.com/archlinux/archinstall#using-a-live-iso-image (use updated archinstall instead of bundled)
+- Arch is TOO hard so I used endeavourOS
 
 - *hyprland docs are SUPREME.*
 > https://wiki.hyprland.org/Getting-Started/Quick-start/
