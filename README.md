@@ -3,7 +3,8 @@ Everything you/I need to know about my EndeavourOS + Hyprland setup.
 
 # Useful stuff
 
-- Arch is TOO hard so I used endeavourOS
+- Arch is hard so I used endeavourOS
+> run `sudo pacman -Sy archlinux-keyring' first
 
 - *hyprland docs are SUPREME.*
 > https://wiki.hyprland.org/Getting-Started/Quick-start/
