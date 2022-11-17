@@ -6,7 +6,7 @@ Everything you/I need to know about my EndeavourOS + Hyprland setup.
 - Arch is hard so I used endeavourOS
 > run `sudo pacman -Sy archlinux-keyring' first in the installation .iso before running the calamares installer
 
-- Install `gvfs` for removable drives with 'thunar'
+- Install `gvfs` for removable drives with `thunar`
 
 - *hyprland docs are SUPREME.*
 > https://wiki.hyprland.org/Getting-Started/Quick-start/ | 
