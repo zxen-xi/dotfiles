@@ -14,5 +14,4 @@ Everything you/I need to know about my EndeavourOS + Hyprland setup.
 > https://github.com/hyprwm/Hyprland/wiki/FAQ
 
 - *wofi*:
-> https://hg.sr.ht/~scoopta/wofi
-> https://man.archlinux.org/man/wofi.1.en
+> https://hg.sr.ht/~scoopta/wofi | https://man.archlinux.org/man/wofi.1.en
