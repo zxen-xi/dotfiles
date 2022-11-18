@@ -5,6 +5,7 @@ Everything you/I need to know about my EndeavourOS + Hyprland setup.
 - I have `udiskie` in startup, under `# Startup Apps` in `hyprland.conf`. I use this for automount a couple of removable drives. Please remove this line if you want.
 - This doesn't work for any pulseaudio-related packages, I've completely switched to `pipewire` and `wireplumber` (wpctl)
 - `playerctl` for media controls
+- Currently, `yay` custom build directory does not work, so manually add it in `~/.config/yay/config.json` see this: https://github.com/Jguer/yay/issues/1612
 
 # Useful stuff
 
