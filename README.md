@@ -1,9 +1,10 @@
 # dotfiles-hyprland
 Everything you/I need to know about my EndeavourOS + Hyprland setup.
 
-# WARNINGS: 
+# WARNINGS/DEPENDENCIES: 
 - I have `udiskie` in startup, under `# Startup Apps` in `hyprland.conf`. I use this for automount a couple of removable drives. Please remove this line if you want.
 - This doesn't work for any pulseaudio-related packages, I've completely switched to `pipewire` and `wireplumber` (wpctl)
+- `playerctl` for media controls
 
 # Useful stuff
 
