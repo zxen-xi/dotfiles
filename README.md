@@ -9,6 +9,8 @@ Everything you/I need to know about my EndeavourOS + Hyprland setup.
 
 # Useful stuff
 
+- https://dev.to/jerrynsh/a-brief-guide-to-manage-dotfiles-1h59
+
 - Arch is hard so I used endeavourOS
 > run `sudo pacman -Sy archlinux-keyring' first in the installation .iso before running the calamares installer
 
