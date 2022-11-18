@@ -14,7 +14,9 @@ Everything you/I need to know about my EndeavourOS + Hyprland setup.
 - Setup `udiskie` if you want automount https://github.com/coldfix/udiskie/wiki/Usage
 - Waybar icons not working (fresh install): https://github.com/Alexays/Waybar/issues/117
 - Volume inc/dec with `wireplumber` + `pipewire` + `pipewire-pulse`
-```wpctl set-volume @DEFAULT_AUDIO_SINK@ [num%]+-```
+```
+wpctl set-volume @DEFAULT_AUDIO_SINK@ [num%]+-
+```
 
 - *hyprland docs are SUPREME.*
 > https://wiki.hyprland.org/Getting-Started/Quick-start/ | 
