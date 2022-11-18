@@ -11,6 +11,7 @@ Everything you/I need to know about my EndeavourOS + Hyprland setup.
 
 - For viewing removable drives with file managers, install `gvfs`
 - Setup `udiskie` if you want automount https://github.com/coldfix/udiskie/wiki/Usage
+- Waybar icons not working (fresh install): https://github.com/Alexays/Waybar/issues/117
 
 - *hyprland docs are SUPREME.*
 > https://wiki.hyprland.org/Getting-Started/Quick-start/ | 
