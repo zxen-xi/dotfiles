@@ -18,6 +18,10 @@ Everything you/I need to know about my EndeavourOS + Hyprland setup.
 ```
 wpctl set-volume @DEFAULT_AUDIO_SINK@ [num%]+-
 ```
+- Set default terminal in `nemo`
+```
+gsettings set org.cinnamon.desktop.default-applications.terminal exec kitty
+```
 
 - *hyprland docs are SUPREME.*
 > https://wiki.hyprland.org/Getting-Started/Quick-start/ | 
