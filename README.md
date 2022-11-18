@@ -24,10 +24,9 @@ wpctl set-volume @DEFAULT_AUDIO_SINK@ [num%]+-
 > https://wiki.hyprland.org/Configuring/Variables/ | 
 > https://wiki.hyprland.org/Configuring/Configuring-Hyprland/ | 
 > https://wiki.hyprland.org/Useful-Utilities/ | 
-> https://github.com/hyprwm/Hyprland/wiki/FAQ
+> https://github.com/hyprwm/Hyprland/wiki/FAQ | 
+> https://wiki.hyprland.org/Configuring/Monitors/ (global display scale)
 
-- gettin scaling to work (XWayland)
-> https://wayland.freedesktop.org/xserver.html
 
 - *wofi*:
 > https://hg.sr.ht/~scoopta/wofi | https://man.archlinux.org/man/wofi.1.en
