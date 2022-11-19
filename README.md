@@ -15,6 +15,7 @@ Everything you/I need to know about my EndeavourOS + Hyprland setup.
 > run `sudo pacman -Sy archlinux-keyring' first in the installation .iso before running the calamares installer
 
 - For viewing removable drives with file managers, install `gvfs`
+- Install `lxappearance` for GTK/icon configuration, *TIP: Widget style means gtk theme.* 
 - Setup `udiskie`: https://github.com/coldfix/udiskie/wiki/Usage
 -`lxpolkit`: https://wiki.archlinux.org/title/Polkit#Authentication_agents
 - Waybar icons not working (fresh install): https://github.com/Alexays/Waybar/issues/117
