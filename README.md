@@ -2,7 +2,7 @@
 Everything you/I need to know about my EndeavourOS + Hyprland setup.
 
 # WARNINGS/DEPENDENCIES: 
-- I have `udiskie` in startup, under `# Startup Apps` in `hyprland.conf`. I use this for automount a couple of removable drives. Please remove this line if you want.
+- I have `udiskie &` and `lxpolkit &` in startup, under `# Startup Apps` in `hyprland.conf`. `lxpolkit` is for authentication so that my file manager can get authorization for mounting my external HDD. (*Install `lxsession` if you want `/usr/bin/lxpolkit`, as `lxpolkit` is not a package as such.*) Please remove this line if you want.
 - This doesn't work for any pulseaudio-related packages, I've completely switched to `pipewire` and `wireplumber` (wpctl)
 - `playerctl` for media controls
 - Currently, `yay` custom build directory does not work, so manually add it in `~/.config/yay/config.json` see this: https://github.com/Jguer/yay/issues/1612
@@ -15,7 +15,8 @@ Everything you/I need to know about my EndeavourOS + Hyprland setup.
 > run `sudo pacman -Sy archlinux-keyring' first in the installation .iso before running the calamares installer
 
 - For viewing removable drives with file managers, install `gvfs`
-- Setup `udiskie` if you want automount https://github.com/coldfix/udiskie/wiki/Usage
+- Setup `udiskie`: https://github.com/coldfix/udiskie/wiki/Usage
+-`lxpolkit`: https://wiki.archlinux.org/title/Polkit#Authentication_agents
 - Waybar icons not working (fresh install): https://github.com/Alexays/Waybar/issues/117
 - Volume inc/dec with `wireplumber` + `pipewire` + `pipewire-pulse`
 ```
