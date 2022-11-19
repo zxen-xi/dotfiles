@@ -17,6 +17,7 @@ Everything you/I need to know about my EndeavourOS + Hyprland setup.
 - New packages from X to Wayland: https://github.com/swaywm/sway/wiki/i3-Migration-Guide
 - For viewing removable drives with file managers, install `gvfs`
 - Install `lxappearance` for GTK/icon configuration, *TIP: Widget style means gtk theme.* 
+- For GTK3/4 set environment variable `GTK_THEME=theme_name` and GTK2 use `GTK_RC_FILES`
 - Setup `udiskie`: https://github.com/coldfix/udiskie/wiki/Usage
 -`lxpolkit`: https://wiki.archlinux.org/title/Polkit#Authentication_agents
 - Waybar icons not working (fresh install): https://github.com/Alexays/Waybar/issues/117
