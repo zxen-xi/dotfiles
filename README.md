@@ -13,7 +13,7 @@ Everything you/I need to know about my EndeavourOS + Hyprland setup.
 
 - Arch is hard so I used endeavourOS
 > run `sudo pacman -Sy archlinux-keyring' first in the installation .iso before running the calamares installer
-
+- New packages from X to Wayland: https://github.com/swaywm/sway/wiki/i3-Migration-Guide
 - For viewing removable drives with file managers, install `gvfs`
 - Install `lxappearance` for GTK/icon configuration, *TIP: Widget style means gtk theme.* 
 - Setup `udiskie`: https://github.com/coldfix/udiskie/wiki/Usage
