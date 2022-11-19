@@ -13,12 +13,14 @@ Everything you/I need to know about my EndeavourOS + Hyprland setup.
 
 - Arch is hard so I used endeavourOS
 > run `sudo pacman -Sy archlinux-keyring' first in the installation .iso before running the calamares installer
+
 - New packages from X to Wayland: https://github.com/swaywm/sway/wiki/i3-Migration-Guide
 - For viewing removable drives with file managers, install `gvfs`
 - Install `lxappearance` for GTK/icon configuration, *TIP: Widget style means gtk theme.* 
 - Setup `udiskie`: https://github.com/coldfix/udiskie/wiki/Usage
 -`lxpolkit`: https://wiki.archlinux.org/title/Polkit#Authentication_agents
 - Waybar icons not working (fresh install): https://github.com/Alexays/Waybar/issues/117
+- XWayland and blurry issues: https://github.com/hyprwm/Hyprland/pull/591
 - Volume inc/dec with `wireplumber` + `pipewire` + `pipewire-pulse`
 ```
 wpctl set-volume @DEFAULT_AUDIO_SINK@ [num%]+-
