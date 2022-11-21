@@ -9,6 +9,8 @@ Everything you/I need to know about my EndeavourOS + Hyprland setup.
 
 # Useful stuff
 
+- catppuccin! https://github.com/catppuccin/gtk, https://github.com/catppuccin/hyprland
+
 - My .profile file for environment variables:
 ```
 GTK_THEME=Catppuccin-Macchiato-Teal
