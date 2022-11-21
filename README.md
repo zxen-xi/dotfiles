@@ -2,6 +2,7 @@
 Everything you/I need to know about my EndeavourOS + Hyprland setup.
 
 # WARNINGS/DEPENDENCIES: 
+- `qt5ct`, `qt6-wayland`, `qt5-wayland`
 - I have `udiskie &` and `lxpolkit &` in startup, under `# Startup Apps` in `hyprland.conf`. `lxpolkit` is for authentication so that my file manager can get authorization for mounting my external HDD. (*Install `lxsession` if you want `/usr/bin/lxpolkit`, as `lxpolkit` is not a package as such.*) Please remove this line if you want.
 - This doesn't work for any pulseaudio-related packages, I've completely switched to `pipewire` and `wireplumber` (wpctl)
 - `playerctl` for media controls
