@@ -31,6 +31,7 @@ bash
 -`lxpolkit`: https://wiki.archlinux.org/title/Polkit#Authentication_agents
 - Waybar icons not working (fresh install): https://github.com/Alexays/Waybar/issues/117
 - XWayland and blurry issues: https://github.com/hyprwm/Hyprland/pull/591
+- ^^^^ for electron: https://wiki.archlinux.org/title/wayland#Electron
 - Volume inc/dec with `wireplumber` + `pipewire` + `pipewire-pulse`
 ```
 wpctl set-volume @DEFAULT_AUDIO_SINK@ [num%]+-
