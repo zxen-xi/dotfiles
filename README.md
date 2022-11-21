@@ -9,6 +9,13 @@ Everything you/I need to know about my EndeavourOS + Hyprland setup.
 
 # Useful stuff
 
+- My .profile file for environment variables:
+```
+GTK_THEME=Catppuccin-Macchiato-Teal
+export GTK_THEME
+bash
+```
+
 - https://dev.to/jerrynsh/a-brief-guide-to-manage-dotfiles-1h59
 
 - Arch is hard so I used endeavourOS
