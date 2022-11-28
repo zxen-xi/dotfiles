@@ -10,7 +10,7 @@ Everything you/I need to know about my EndeavourOS + Hyprland setup.
 
 # Useful stuff
 
-- catppuccin! https://github.com/catppuccin/gtk, https://github.com/catppuccin/hyprland, https://github.com/catppuccin/grub
+- catppuccin! https://github.com/catppuccin/gtk, https://github.com/catppuccin/hyprland, https://github.com/catppuccin/grub, 
 
 - My .profile file for environment variables:
 ```
