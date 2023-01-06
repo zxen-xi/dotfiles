@@ -1,5 +1,7 @@
-# dotfiles-hyprland
+# Sway-arch dotfiles
 Everything you/I need to know about my EndeavourOS + Hyprland setup.
+
+# Currently still in progress, please star this for later [I'll be done by end-March, have exams to tackle]
 
 # WARNINGS/DEPENDENCIES: 
 - `qt5ct`, `qt6-wayland`, `qt5-wayland`
